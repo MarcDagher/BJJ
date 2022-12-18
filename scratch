@@ -1,0 +1,43 @@
+Usage of get and post methods
+
+
+
+<!-- function vs(){
+    switch(vs){
+        case bracket = 66;
+            array_rand($bracket_66);
+            break;
+        case bracket = 77;
+            array_rand($bracket_77);
+            break;
+        case bracket = 88;
+            array_rand($bracket_88);
+            break;
+    }
+}
+
+$bracket = _GET_[bracket];
+$vs = _GET_[vs];
+$User_Info = _GET_[user_info];
+
+echo user_info . "vs" . vs; -->
+
+
+
+<!-- first i thought of adding the info to the array then choose excluding the person's name, then i thought then why put the name in the first place -->
+
+
+<!-- function signUp (user_info, bracket, fight){
+
+switch(bracket) {
+    case "66"; 
+        array_push($bracket_66, $user_info);
+        break;
+    case "77";
+        array_push($bracket_77, $user_info);
+        break;
+    case "88";
+        array_push($bracket_88, $user_info);
+        break;
+}
+} -->
